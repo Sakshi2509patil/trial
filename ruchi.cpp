@@ -9,3 +9,4 @@ cout<<"Hello World"<<endl;
 =======
 }cout<<(5+6)<<endl;
 >>>>>>> b1
+cout<<"Nam hudgi bandavle"
